@@ -1,4 +1,8 @@
-Create a new branch is quick&quick 20190114
+<<<<<<< HEAD
+Create a new branch is quick AND simple 20190114
+=======
+Create a new branch is quick AND simple 20190114
+>>>>>>> featurel
 
 
 branch 20190114
